@@ -1,0 +1,15 @@
+18:21:50.425 [main] INFO  org.example.Main -- Application started
+18:21:50.431 [main] ERROR org.example.Main -- An error occurred
+java.lang.ArithmeticException: / by zero
+	at org.example.Main.main(Main.java:14)
+18:21:50.431 [main] INFO  org.example.Main -- Application ended
+18:23:20.569 [main] INFO  org.example.FileAppenderExample -- Application started
+18:23:20.574 [main] ERROR org.example.FileAppenderExample -- An error occurred
+java.lang.ArithmeticException: / by zero
+	at org.example.FileAppenderExample.main(Main.java:14)
+18:23:20.574 [main] INFO  org.example.FileAppenderExample -- Application ended
+18:24:54.114 [main] INFO  org.example.FileAppenderExample -- Application started
+18:24:54.118 [main] ERROR org.example.FileAppenderExample -- An error occurred
+java.lang.ArithmeticException: / by zero
+	at org.example.FileAppenderExample.main(FileAppenderExample.java:14)
+18:24:54.119 [main] INFO  org.example.FileAppenderExample -- Application ended
